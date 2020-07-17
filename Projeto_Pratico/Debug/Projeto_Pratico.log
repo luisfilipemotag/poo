@@ -1,0 +1,4 @@
+﻿  Projeto_Pratico.cpp
+c:\users\chip\desktop\coisasparaguardar\eng.inf\poo\projeto_pratico\projeto_pratico\grafos.h(27): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: see previous definition of 'INFINITY'
+  Projeto_Pratico.vcxproj -> C:\Users\Chip\Desktop\coisasparaguardar\eng.Inf\poo\Projeto_Pratico\Debug\Projeto_Pratico.exe
